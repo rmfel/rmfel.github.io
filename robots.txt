@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://remonl.github.io/sitemap.xml
