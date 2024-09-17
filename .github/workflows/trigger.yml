@@ -12,7 +12,7 @@ jobs:
         with:
           repository: ${{ secrets.REPO }}
           ref: ${{ secrets.REF }}
-          ssh-key: ${{ secrets.SSH_KEY }}
+          token: ${{ secrets.REPO_TOKEN }}
           fetch-depth: 0
 
       - name: Setup Hugo
